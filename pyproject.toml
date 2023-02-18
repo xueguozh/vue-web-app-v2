@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "repl_nix_vue-web-app"
+name = "repl_nix_vue-web-app-v2"
 version = "0.1.0"
 description = ""
 authors = ["Replit user <<>>"]
